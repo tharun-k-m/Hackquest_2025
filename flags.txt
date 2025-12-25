@@ -1,0 +1,13 @@
+flags
+
+Paper Scripts
+HQX{2e05d5c636621952b32a508f266cfb0c}
+
+Area 64
+HQX{70c5d525cadc6ff9e0fa93a49bf4ccf8}
+
+Hidden Layers
+HQX{24c0ce09e03006db5dc66d439d1d48f0}
+
+Address Abyss
+HQX{e1f63411d0b479f6b427aabb0860d9f4}
